@@ -1,7 +1,7 @@
 # Web crawler
 ## Libraries used
 * axios
-* Cheerios
+* cheerio
 * csv-writer
 
 ## Installation and usage
